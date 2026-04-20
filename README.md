@@ -3,16 +3,8 @@
 </div>
 
 <div align="center">
-  <p><i>"Entre muros de sonido, distorsión y código de alto rendimiento."</i></p>
+  <p><i>""</i></p>
 </div>
-
-### 🎸 Sobre mí
-
-Soy un ingeniero que encuentra el equilibrio entre el caos y la estructura. Así como el **shoegaze** envuelve el oído en capas de guitarras saturadas, ruido blanco y melancolía, yo construyo sistemas donde cada línea de código tiene un propósito dentro de una mayor complejidad.
-
-Me apasiona la **ingeniería de alto rendimiento**: optimizar, reducir latencias y lograr que los sistemas corran a su máxima eficiencia, de la misma forma en que una banda de rock encuentra la sincronía perfecta en medio del estruendo.
-
-Mi estética vive en los tonos **rojo vino**, la nostalgia de lo análogo y la belleza técnica oculta detrás del ruido.
 
 ---
 
