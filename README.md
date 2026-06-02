@@ -33,7 +33,7 @@
 
 <div align="center">
   <sub>
-    Para incluir actividad y lenguajes de repositorios privados al 100%, estas tarjetas requieren configuración con token en una instancia propia.
+    Si alguna tarjeta no carga por límites del proveedor, recarga o agrega &cache_seconds=86400 al endpoint. Para incluir repos privados al 100%, usa una instancia propia con token.
   </sub>
 </div>
 
