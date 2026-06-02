@@ -19,12 +19,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrln-trrs&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://mrln-trrs-stats-mrln-trrs-projects.vercel.app/api?username=mrln-trrs&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
   <img src="https://streak-stats.demolab.com?user=mrln-trrs&background=1c1014&ring=A62B42&fire=A62B42&currStreakLabel=A62B42&sideNums=dca4a4&currStreakNum=dca4a4&sideLabels=dca4a4&dates=dca4a4&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrln-trrs&layout=compact&langs_count=10&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4" alt="Lenguajes más usados" />
+  <img src="https://mrln-trrs-stats-mrln-trrs-projects.vercel.app/api/top-langs/?username=mrln-trrs&layout=compact&langs_count=10&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&count_private=true&cache_seconds=86400" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@
 
 <div align="center">
   <sub>
-    Si alguna tarjeta no carga por límites del proveedor, recarga o agrega &cache_seconds=86400 al endpoint. Para incluir repos privados al 100%, usa una instancia propia con token.
+    Estadísticas y lenguajes usan tu instancia de Vercel para incluir datos privados; si no cargan al instante, espera caché o recarga.
   </sub>
 </div>
 
