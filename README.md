@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-marlon&layout=compact&langs_count=20&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-marlon&layout=compact&langs_count=10&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
