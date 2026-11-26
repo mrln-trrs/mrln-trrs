@@ -15,16 +15,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrln-trrs&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="Medallas de perfil" />
-</div>
-
-<div align="center">
-  <img src="https://mrln-trrs-stats-mrln-trrs-projects.vercel.app/api?username=mrln-trrs&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
+  <img src="https://mrln-trrs-stats.vercel.app/api?username=mrln-trrs&show_icons=true&include_all_commits=true&count_private=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="Estadísticas de GitHub" />
   <img src="https://streak-stats.demolab.com?user=mrln-trrs&background=1c1014&ring=A62B42&fire=A62B42&currStreakLabel=A62B42&sideNums=dca4a4&currStreakNum=dca4a4&sideLabels=dca4a4&dates=dca4a4&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <div align="center">
-  <img src="https://mrln-trrs-stats-mrln-trrs-projects.vercel.app/api/top-langs/?username=mrln-trrs&layout=compact&langs_count=10&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&count_private=true&cache_seconds=86400" alt="Lenguajes más usados" />
+  <img src="https://mrln-trrs-stats.vercel.app/api/top-langs/?username=mrln-trrs&layout=compact&langs_count=10&hide_border=true&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&count_private=true&cache_seconds=86400" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
