@@ -12,6 +12,31 @@
   <img src="https://img.shields.io/badge/Open%20Source-Activo-1c1014?style=flat&logo=github&logoColor=A62B42" alt="Open Source" />
 </div>
 
+<div align="center">
+  <h3>Proyectos destacados</h3>
+  <a href="https://mrln-trrs.github.io/lrpd-productos-compuestos/">
+    <img src="https://mrln-trrs-stats.vercel.app/api/pin?username=mrln-trrs&repo=lrpd-productos-compuestos&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="lrpd-productos-compuestos" />
+  </a>
+  <a href="https://github.com/mrln-trrs/interprete-lsp">
+    <img src="https://mrln-trrs-stats.vercel.app/api/pin?username=mrln-trrs&repo=interprete-lsp&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="interprete-lsp" />
+  </a>
+  <a href="https://github.com/mrln-trrs/simulador-trafico-rs">
+    <img src="https://mrln-trrs-stats.vercel.app/api/pin?username=mrln-trrs&repo=simulador-trafico-rs&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="simulador-trafico-rs" />
+  </a>
+  <a href="https://github.com/mrln-trrs/audio-visualizer">
+    <img src="https://mrln-trrs-stats.vercel.app/api/pin?username=mrln-trrs&repo=audio-visualizer&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="audio-visualizer" />
+  </a>
+  <a href="https://github.com/mrln-trrs/m-agenda">
+    <img src="https://mrln-trrs-stats.vercel.app/api/pin?username=mrln-trrs&repo=m-agenda&bg_color=1c1014&title_color=A62B42&text_color=dca4a4&icon_color=A62B42&hide_border=true&cache_seconds=86400" alt="m-agenda" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>
+    <a href="https://mrln-trrs.github.io/lrpd-productos-compuestos/">Portafolio LRPD en línea</a>
+  </sub>
+</div>
+
 ---
 
 <div align="center">
@@ -29,7 +54,7 @@
 
 <div align="center">
   <sub>
-    Estadísticas y lenguajes usan tu instancia de Vercel para incluir datos privados; si no cargan al instante, espera caché o recarga.
+    Las estadísticas incluyen repositorios privados y se actualizan una vez al día.
   </sub>
 </div>
 
