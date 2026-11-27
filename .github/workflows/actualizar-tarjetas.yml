@@ -1,0 +1,51 @@
+name: Actualizar tarjetas del perfil
+
+on:
+  schedule:
+    - cron: "17 6 * * *" # todos los días, 01:17 hora de Lima
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - tarjetas.txt
+      - scripts/actualizar-tarjetas.sh
+      - .github/workflows/actualizar-tarjetas.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tarjetas
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Descargar tarjetas (conserva la copia anterior si un servicio falla)
+        run: ./scripts/actualizar-tarjetas.sh
+
+      - name: Generar la serpiente de contribuciones
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/serpiente/oscuro.svg?palette=github-dark&color_snake=#A62B42&color_dots=#1c1014,#4a1f28,#722F37,#A62B42,#dca4a4
+            assets/serpiente/claro.svg?color_snake=#722F37&color_dots=#ebedf0,#f2c9cf,#dca4a4,#A62B42,#722F37
+
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --cached --quiet; then
+            echo "Sin cambios en las tarjetas."
+            exit 0
+          fi
+          git commit -m "chore(tarjetas): actualización automática"
+          git pull --rebase origin main
+          git push origin HEAD:main
