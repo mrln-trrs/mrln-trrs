@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
       - name: Descargar tarjetas (conserva la copia anterior si un servicio falla)
         run: ./scripts/actualizar-tarjetas.sh
