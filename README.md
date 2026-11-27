@@ -41,8 +41,8 @@
 
 <div align="center">
   <h3>Actividad</h3>
-  <img src="assets/tarjetas/estadisticas.svg" height="170" alt="Estadísticas de GitHub" />
-  <img src="assets/tarjetas/racha.svg" height="170" alt="Racha de contribuciones" />
+  <img src="assets/tarjetas/estadisticas.svg" height="165" alt="Estadísticas de GitHub" />
+  <img src="assets/tarjetas/racha.svg" height="165" alt="Racha de contribuciones" />
 </div>
 
 <div align="center">
