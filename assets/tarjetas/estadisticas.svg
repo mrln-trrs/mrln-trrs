@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Estad&#237;sticas de GitHub de Marlon Torres Espinoza, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 2, Commits totales  : 1515, PRs totales: 15</desc>
+        <desc id="descId">Estrellas totales: 2, Commits totales  : 1516, PRs totales: 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 205.58660448863657;
+        stroke-dashoffset: 205.57644894630891;
       }
     }
   
