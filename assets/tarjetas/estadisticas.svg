@@ -1,15 +1,15 @@
 
       <svg
-        width="381.74605263157895"
+        width="520.5585526315789"
         height="145"
-        viewBox="0 0 381.74605263157895 145"
+        viewBox="0 0 520.5585526315789 145"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Estad&#237;sticas de GitHub de mrln.trrs, Rank: C+</title>
-        <desc id="descId">Estrellas totales: 2, Commits totales  : 1509, PRs totales: 15</desc>
+        <title id="titleId">Estad&#237;sticas de GitHub de Marlon Torres Espinoza, Rank: C+</title>
+        <desc id="descId">Estrellas totales: 2, Commits totales  : 1515, PRs totales: 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 205.6476857898538;
+        stroke-dashoffset: 205.58660448863657;
       }
     }
   
@@ -110,7 +110,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="380.74605263157895"
+          width="519.5585526315789"
           fill="#1c1014"
           stroke-opacity="0"
         />
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Estad&#237;sticas de GitHub de mrln.trrs</text>
+      >Estad&#237;sticas de GitHub de Marlon Torres Espinoza</text>
     </g>
       </g>
     
